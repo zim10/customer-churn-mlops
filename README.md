@@ -1,4 +1,4 @@
-# Customer-churn-analysis-in-telecom-industry
+# Customer-churn-analysis-in-telecom-industry using ML techniques
 # Data source:https://learn.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python
 
 # Objectives:
