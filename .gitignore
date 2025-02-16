@@ -1,0 +1,15 @@
+.env
+# Logs
+*.log
+#virtual environment
+venv/
+env/
+ENV/
+mlop/
+__pycache__/
+.vscode/
+.idea/
+.log
+.ipynb_checkpoints
+grades.csv
+my_project/
