@@ -10,5 +10,5 @@ CMD ["mlflow", "server", \
      "--host", "0.0.0.0", \
      "--port", "5000", \
      "--backend-store-uri", "postgresql://mlflow:mlflow@postgres/mlflow", \
-     "--default-artifact-root", "s3://poridhi1", \
-     "--artifacts-destination", "s3://poridhi1"]
+     "--default-artifact-root", "s3://<bucket_name>", \
+     "--artifacts-destination", "s3://<bucket_name>"]
