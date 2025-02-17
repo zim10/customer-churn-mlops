@@ -13,3 +13,10 @@ __pycache__/
 .ipynb_checkpoints
 grades.csv
 my_project/
+*.txt
+*.png
+model_comparison.csv
+sorted_model_comparison.csv
+Dataset/
+mlflow_data/
+mlruns/
