@@ -1,13 +1,5 @@
 # Customer-churn-analysis-in-telecom-industry using ML techniques
-# Data source:https://learn.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python
+# Data source:https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-# Objectives:
-
-1. Read Dataset
-2. Data preprocessing (check missing value, shape, columns, observations and others)
-3. check Data types, Feature Scaling, Feature Engineering, Feature selection
-4. One-hot Encoding
-5. Train-Test separation
-6. Perform Grid Search and Cross-Validation with Decision Tree Classifier
-7. Show a tree diagram of the Decision Tree
-8. Show the Confusion Matrix, Classification report, and ROC-AUC
+This project implements a comprehensive customer churn prediction system using seven different machine learning models. The project uses telco customer churn data to predict whether a customer will discontinue their service. I integrate MLflow for experiment tracking, PostgreSQL for metadata storage, and Amazon S3 for artifact storage.
+![alt text](image.png)
