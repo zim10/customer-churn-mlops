@@ -13,5 +13,3 @@ __pycache__/
 .ipynb_checkpoints
 grades.csv
 my_project/
-docker-compose.yml
-Dockerfile
